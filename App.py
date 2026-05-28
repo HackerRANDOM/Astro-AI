@@ -20,7 +20,7 @@ Use headings, bullet points, and bold text. Do not use generic internet astrolog
 
 # 4. Initialize the Model with MAX limits and NO safety filters
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-pro-latest",
+    model_name="gemini-1.5-pro",
     system_instruction=system_instruction,
     generation_config={
         "max_output_tokens": 8192, 
