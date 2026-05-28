@@ -1,2 +1,2 @@
 # Astro-AI
-Helps in vedic astrology 
+Helps in vedic astrology
